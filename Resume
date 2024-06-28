@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chayamurthy - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        .section ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .section ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <cite>R.V.R and J.C</cite>
+    <div class="header">
+        <cite>R.V.R and J.C</cite>
+        <h1>Chaya Murthy Upputuri</h1>
+        <p>B.tech final year</p>
+    </div>
+
+    <div class="contact-info">
+        <p>Email: upputuri.chayamurthy@gmail.com</p>
+        <p>Phone: +91 7382466639</p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/chaya-murthy-upputuri-b28a1a1b8">Chaya Murthy Upputuri</a></p>
+        <p>GitHub: <a href="https://github.com/chayamurthy19">Chayamurthy</a></p>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <ul>
+            <li><strong>8.15 CGPA,R.V.R & J.C college of Engineering</strong>, B.tech, 4th Year</li>
+            <li><strong>94.2%,Srichaithanya Boys jr college</strong>, Intermediate</li>
+            <li><strong>9.7 Gpa,Bhashayam High School</strong>, SSC</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li>Programming Languages: C, Java, Python, JavaScript</li>
+            <li>Frameworks/Libraries: C#</li>
+            <li>Tools: Git, SQL ,Tableau</li>
+        </ul>
+    </div>
+    <div class="section">
+        <h2>Certifications</h2>
+        <ul>
+            <li></li>
+            <li>Frameworks/Libraries: C#</li>
+            <li>Tools: Git, SQL ,Tableau</li>
+        </ul>
+    </div>
+</body>
+</html>
